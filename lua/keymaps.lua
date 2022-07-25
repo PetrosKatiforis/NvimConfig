@@ -9,13 +9,13 @@ map_key("n", "<C-l>", ":NERDTreeToggle<Cr>", options)
 
 
 function open_terminal()
-	vim.cmd([[
-		:tab new
-		:ter
+    vim.cmd([[
+        :tab new
+        :ter
 
-		:set norelativenumber
-		:call feedkeys('i')
-	]])
+        :set norelativenumber
+        :call feedkeys('i')
+    ]])
 end
 
 -- Terminal-specific key bindings
