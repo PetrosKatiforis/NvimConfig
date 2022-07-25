@@ -9,6 +9,7 @@ local configuration = {
 	-- General terminal settings
 	shiftwidth = 4,
 	tabstop = 4,
+	expandtab = true,
 	relativenumber = true,
 
 	-- Nvim settings
