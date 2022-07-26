@@ -1,6 +1,6 @@
 -- Plugin Configuration & Global Variables
 
-vim.g.airline_theme = "jellybeans"
+vim.g.airline_theme = "base16_black_metal"
 vim.g.closetag_filenames = "*.svelte, *.html, *.jsx, *.tsx"
 
 

@@ -1,6 +1,7 @@
 -- Enabling color scheme
 vim.cmd[[ colorscheme hacker ]]
 
+
 local configuration = {
     -- Colorscheme specific
     background = "dark",
